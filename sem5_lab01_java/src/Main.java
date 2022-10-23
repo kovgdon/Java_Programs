@@ -13,6 +13,7 @@ import java.util.NoSuchElementException;
 
 /**
  * @author Коваль Григорий (3 курс 3 группа)
+ * https://github.com/kovgdon/Java_Programs
  */
 public class Main {
     public static void main(String[] args) {
